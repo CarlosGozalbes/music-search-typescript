@@ -6,7 +6,7 @@ import {
   Image,
   Form,
 } from "react-bootstrap";
-import shazam_logo from "../../assets/Shazam-Logo.png";
+import shazam_logo from "../../assets/Shazam-logo.png";
 import { FormEvent, useState } from "react";
 const MyNavBar = () => {
 
